@@ -20,3 +20,28 @@ public class HelloWorld {
 }
 javac HelloWorld.java
 java HelloWorld
+-----------------------------------------------------------------------------
+# Error Check Utility
+
+This repository contains a simple Java program that provides a utility to check if a number is zero, positive, or negative.
+
+## Overview
+
+The `errorCheck` class in the `One` package contains the method `checkNumber` which determines the state of a given integer.
+
+### Features:
+- Identifies if a number is:
+  - **Zero**
+  - **Positive**
+  - **Negative**
+
+## File Structure
+
+- `src/One/errorCheck.java`: Contains the main implementation of the `errorCheck` class.
+
+## Usage
+
+### Prerequisites:
+- Ensure you have Java Development Kit (JDK) installed on your system.
+
+
